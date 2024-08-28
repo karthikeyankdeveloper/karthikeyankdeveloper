@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**karthikeyankdeveloper/karthikeyankdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Karthikeyan
 
-Here are some ideas to get you started:
+####  💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I’m a **Web Developer** passionate about crafting seamless digital experiences. With a solid foundation in web and mobile development, I specialize in:
+ 
+![Static Badge](https://img.shields.io/badge/Angular-FrontEnd-blue) ![Static Badge](https://img.shields.io/badge/Progressive_Web_Apps-(PWA)-pink) ![Static Badge](https://img.shields.io/badge/Web_Design-red)     ![Static Badge](https://img.shields.io/badge/Android_development-Native-yellow)  ![Static Badge](https://img.shields.io/badge/UI/UX-Figma-orange)    
+
+
+### 📚 What I'm Working On 
+-   Deepening my understanding of **Data Structures and Algorithms**.
+-   Expanding my skills in **UI/UX Design** and **Android Development**.
+-   Building innovative **web and mobile applications**.
+
+
+### 💬 Ask me about: 
+Frontend development, Angular, Progressive Web Apps, Android development, UI/UX design, and data structures.
+
+🎨 **Let’s Connect!** Feel free to reach out for collaborations, tech chats, or just to share cool ideas! 🔗  [LinkedIn](https://www.linkedin.com/in/karthikeyan-developer/) 
+
