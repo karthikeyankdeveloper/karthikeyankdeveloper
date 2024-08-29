@@ -1,5 +1,6 @@
-
 ## Hi there, I'm Karthikeyan
+
+<img src="https://bit.ly/3AV57fS"/>  
 
 ####  💻 About Me
 
@@ -18,4 +19,3 @@
 Frontend development, Angular, Progressive Web Apps, Android development, UI/UX design, and data structures.
 
 🎨 **Let’s Connect!** Feel free to reach out for collaborations, tech chats, or just to share cool ideas! 🔗  [LinkedIn](https://www.linkedin.com/in/karthikeyan-developer/) 
-
