@@ -1,6 +1,6 @@
 ## Hi there, I'm Karthikeyan
 
-<img src="https://bit.ly/3AV57fS"/>  
+<!-- <img src="https://bit.ly/3AV57fS"/>  -->
 
 ####  💻 About Me
 
